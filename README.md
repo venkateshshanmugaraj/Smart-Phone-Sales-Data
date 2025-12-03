@@ -1,6 +1,9 @@
 # Smart-Phone-Sales-Data
 This dashboard provides a clear view of smartphone sales across models, regions, and channels. It highlights key metrics like revenue, units sold, and ASP, and uses visual charts to show trends. Filters and drilldowns help identify top products, slow movers, and issues such as high returns or low stock.
 
+<img width="1132" height="683" alt="image" src="https://github.com/user-attachments/assets/8ffeff8e-0f0a-4101-8079-fb811e960db9" />
+
+
 ## 1) Purpose & audience (start here)
 
  * State the dashboard’s goal in one sentence: e.g. “Help product, sales and operations teams quickly see how smartphone models and channels are selling, spot trends and underperformers, and take actions to hit revenue/stock targets.”
